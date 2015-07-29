@@ -1,7 +1,7 @@
 {
   "name": "http-to-socks-proxy",
   "version": "0.0.1",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "socks": "latest"
   }
