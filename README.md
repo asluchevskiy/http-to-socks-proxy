@@ -15,3 +15,9 @@ var options = {
 };
 ProxyServer.createServer(options).listen(8080);
 ```
+
+`proxy.list` must be in the following format:
+```
+host:port
+host:port:login:password
+```
