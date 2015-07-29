@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy-to-socks",
+  "name": "http-to-socks-proxy",
   "version": "0.0.1",
   "main": "main.js",
   "dependencies": {
