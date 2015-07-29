@@ -1,0 +1,8 @@
+{
+  "name": "http-proxy-to-socks",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "socks": "latest"
+  }
+}
