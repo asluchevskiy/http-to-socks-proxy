@@ -1,6 +1,6 @@
 {
   "name": "http-to-socks-proxy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Implements http proxy server which sends requests through the socks proxy (proxies)",
   "main": "index.js",
   "homepage": "https://github.com/asluchevskiy/http-to-socks-proxy",
