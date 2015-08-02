@@ -21,3 +21,6 @@ ProxyServer.createServer(options).listen(8080);
 host:port
 host:port:login:password
 ```
+
+## Known problems
+- does not support Keep Alive for http at all
